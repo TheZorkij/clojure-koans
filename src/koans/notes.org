@@ -1,0 +1,4 @@
+* Tasks
+** TODO 
+   [2019-09-02 Пн]
+   [[file:~/HealthSamurai/clojure-koans/src/koans/24_macros.clj][file:~/HealthSamurai/clojure-koans/src/koans/24_macros.clj]]
